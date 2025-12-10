@@ -1,0 +1,28 @@
+{
+    "a": {
+        "listings": [
+            {
+                "category": "other",
+                "condition": "poor",
+                "from_date": "12-12-2023",
+                "name": "temp",
+                "price": 1,
+                "quantity": 1,
+                "to_date": "12-12-2024"
+            }
+        ]
+    },
+    "hello": {
+        "listings": [
+            {
+                "category": "others",
+                "condition": "good",
+                "from_date": "12-12-2024",
+                "name": "hello",
+                "price": 1,
+                "quantity": 1,
+                "to_date": "15-12-2024"
+            }
+        ]
+    }
+}
